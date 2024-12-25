@@ -1,3 +1,5 @@
+# Follow steps for external Flask APP 👇 https://github.com/mukundS0ni/ComfyUI-Flask-Api 👈
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
